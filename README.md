@@ -1,7 +1,7 @@
 ### Hi there  👋
 
 - 🔭 I’m currently working on an Ecommerce application consisting of a web and mobile technologies
-- 🌱 I’m currently learning Rust and Go
+- 🌱 I’m currently splunking into spring cloud and spring native using graalvm
 - 👯 I’m looking to collaborate on Mpesa intergrations and ofcourse machine learning 
 - 🤔 I’m looking for help with Mpesa intergrations
 - 💬 Ask me about everything related to flutter
