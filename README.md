@@ -8,4 +8,5 @@
 - 📫 How to reach me: kamaudavikiruku@gmail.com
 - 😄 Pronouns: HE
 - ⚡ Fun fact: I still code on a rusty old HP probook from 2013.
+- Melvin conways law of microservice architecture "" Organizations which design systems  are constrained in to produce designs which are copies of communication structures of these organizations"""
 
