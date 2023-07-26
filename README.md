@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Mpesa intergrations
 - 💬 Ask me about everything ralated to spring-boot 
 - 📫 How to reach me: kamaudavikiruku@gmail.com
-- 📡 kamaadev.surge.sh
+- 📡 [website me here](kamaadev.surge.sh)
 - 😄 Pronouns: HE
 - ⚡ Fun fact: I still code on a rusty old HP probook from 2013.
 - Melvin conways law of microservice architecture "" Organizations which design systems  are constrained in to produce designs which are copies of communication structures of these organizations"""
